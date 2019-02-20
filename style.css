@@ -120,7 +120,7 @@ body {width: 100%; height: 100%; background: #fff; font-family: "CustomFont", "L
 	color: #000000;
 	text-align: center;
 	text-decoration: none;
-	line-height: 22px;
+	line-height: 18px;
 	}
 .leaflet-bar a,
 .leaflet-control-layers-toggle {
@@ -155,12 +155,12 @@ body {width: 100%; height: 100%; background: #fff; font-family: "CustomFont", "L
 	height: 17px;
 	background: #fff;
 	font: bold 18px monospace;
-	line-height: 18px;
+	line-height: 13px;
 	overflow: hidden;
 	}
 .leaflet-control-zoom-out {
 	font-size: 25px;
-	line-height: 21px !important;
+	line-height: 13px !important;
 	}
 .leaflet-touch .leaflet-control-zoom-in {
 	font-size: 22px;
